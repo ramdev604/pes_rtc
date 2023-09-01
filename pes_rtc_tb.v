@@ -1,5 +1,5 @@
 `timescale 1ns/10ps
-module iiitb_rtc_tb;
+module pes_rtc_tb;
 reg clk,rst;
 wire [3:0]hrm,hrl,minm,minl,secm,secl;
   iiitb_rtc r1(.clkin(clk),.rst(rst),.hrm(hrm),.hrl(hrl),.minm(minm),.minl(minl),.secm(secm),.secl(secl)); 

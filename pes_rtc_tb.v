@@ -5,8 +5,8 @@ wire [3:0]hrm,hrl,minm,minl,secm,secl;
   pes_rtc r1(.clkin(clk),.rst(rst),.hrm(hrm),.hrl(hrl),.minm(minm),.minl(minl),.secm(secm),.secl(secl)); 
 initial begin
 clk=0;rst=0;
-$dumpfile("iiitb_rtc_out.vcd");
-$dumpvars(0,iiitb_rtc_tb);
+$dumpfile("pes_rtc_out.vcd");
+$dumpvars(0,pes_rtc_tb);
 forever
 #10 clk=~clk;
 end

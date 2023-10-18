@@ -7,7 +7,7 @@ This is a real time clock, an integrated circuit, provides time to the microcont
 
 ![rtcbd](https://user-images.githubusercontent.com/62790565/184196172-5bb0eee9-9785-4821-b242-71568a29f803.PNG)
 
-#### Simulation Waveforms
+# Simulation Waveforms
 
 ### Synthesis
 Synthesis transforms the simple RTL design into a gate-level netlist with all the constraints as specified by the designer. In simple language, Synthesis is a process that converts the abstract form of design to a properly implemented chip in terms of logic gates. Yosys is a framework for Verilog RTL synthesis.

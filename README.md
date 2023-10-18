@@ -17,12 +17,14 @@ GLS is generating the simulation output by running test bench with netlist file 
 
 #### Simulation Waveforms
 Pre - synthesis simulation waveform:
+![1](https://github.com/ramdev604/pes_rtc/assets/43489027/c8c24184-2236-46c4-8753-702131c2d371)
 
-![1](https://github.com/ramdev604/pes_rtc/assets/43489027/197d3716-13ff-4f27-8afa-572f0a60f1a3)
+
 
 
 Post - synthesis simulation waveform:
 
-![2](https://github.com/ramdev604/pes_rtc/assets/43489027/75a31f73-9f6d-4e2b-959d-e913a19c2e01)
+![2](https://github.com/ramdev604/pes_rtc/assets/43489027/e19db008-2ffb-4b0e-87ec-74fea541cd30)
+
 
 
